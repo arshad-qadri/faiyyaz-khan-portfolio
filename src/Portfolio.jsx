@@ -1,15 +1,15 @@
 import React from "react";
 
 const projects = [
-  { id: 1, src: "./src/assets/3.png", alt: "POP Ceiling Design 1", description: "Elegant and modern false ceiling designs to enhance your living space." },
-  { id: 2, src: "./src/assets/2.jpg", alt: "POP Ceiling Design 2", description: "Stylish and intricate ceiling patterns for a sophisticated look." },
-  { id: 3, src: "./src/assets/1.jpg", alt: "POP Ceiling Design 3", description: "Classic and artistic POP ceiling work to add charm to any room." },
+  { id: 1, src: "3.png", alt: "POP Ceiling Design 1", description: "Elegant and modern false ceiling designs to enhance your living space." },
+  { id: 2, src: "2.jpg", alt: "POP Ceiling Design 2", description: "Stylish and intricate ceiling patterns for a sophisticated look." },
+  { id: 3, src: "1.jpg", alt: "POP Ceiling Design 3", description: "Classic and artistic POP ceiling work to add charm to any room." },
 ];
 
 const pvcProjects = [
-  { id: 4, src: "./src/assets/pvc1.jpg", alt: "PVC Ceiling Design 1", description: "Durable and stylish PVC ceiling designs for modern interiors." },
-  { id: 5, src: "./src/assets/pvc2.jpg", alt: "PVC Ceiling Design 2", description: "Waterproof and low-maintenance PVC ceilings with elegant patterns." },
-  { id: 6, src: "./src/assets/pvc3.jpg", alt: "PVC Ceiling Design 3", description: "Innovative and decorative PVC ceiling solutions for any space." },
+  { id: 4, src: "pvc1.jpg", alt: "PVC Ceiling Design 1", description: "Durable and stylish PVC ceiling designs for modern interiors." },
+  { id: 5, src: "pvc2.jpg", alt: "PVC Ceiling Design 2", description: "Waterproof and low-maintenance PVC ceilings with elegant patterns." },
+  { id: 6, src: "pvc3.jpg", alt: "PVC Ceiling Design 3", description: "Innovative and decorative PVC ceiling solutions for any space." },
 ];
 
 const Portfolio = () => {
